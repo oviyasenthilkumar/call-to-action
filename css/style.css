@@ -6,11 +6,11 @@
 .container{
 	height:40vh;
 	width:100%;
-	background-color:rgba(0,0,0,0.5);
+	
 }
 #banner{
 	height:40vh;
-	background-image:url(../images/pic.jpg);
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/pic.jpg); 
 	background-size:cover;
 	background-position:center;	
 	margin:auto;
